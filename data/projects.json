@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Mood Journal",
+    "description": "A simple web app to track your daily mood with emojis and descriptions. Save your mood entries and view them later with timestamps.",
+    "image": "/p1.png",
+    "github": "https://github.com/ananya-asa/Mood-Journal",
+    "demo": "https://effervescent-dolphin-318df3.netlify.app/"
+  }
+  
+]
