@@ -5,6 +5,13 @@
     "image": "/p1.png",
     "github": "https://github.com/ananya-asa/Mood-Journal",
     "demo": "https://effervescent-dolphin-318df3.netlify.app/"
+  },
+  {
+    "title": "Web-Scrapper",
+    "description": "A Python-based web scraper using BeautifulSoup to extract and save targeted website data automatically.",
+    "image": "/p2.png",
+    "github": "https://github.com/ananya-asa/Book-Scrapper"
+    
   }
   
 ]
