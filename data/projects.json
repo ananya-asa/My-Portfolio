@@ -12,6 +12,19 @@
     "image": "/p2.png",
     "github": "https://github.com/ananya-asa/Book-Scrapper"
     
-  }
+  },
+   {
+    "title": "Intern-Portal",
+    "description": "A simple full-stack intern dashboard with React frontend and Node.js/Express backend ",
+    "image": "/p3.png",
+    "github": "https://github.com/ananya-asa/Intern-Portal"
+    
+  },
+  {
+   "title": "Folio",
+   "description": "A modern and clean full-stack application for creating and managing a personal blog. Built with the MERN stack (React, Node.js, Express).",
+   "image": "/p4.png",
+   "github": "https://github.com/ananya-asa/Blog-app"
+ }
   
 ]
